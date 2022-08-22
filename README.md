@@ -1,0 +1,2 @@
+# gateway
+Repozytorium zawierające ApiGateway
